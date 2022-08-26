@@ -2,4 +2,4 @@
 
 ## Progress
 
-- [✔️] ♾️ 1 > [Class 01](class/class01/resources.md)
+- [✔️] ♾️ 1 > [Class 01](clases/class01/resources.md)
