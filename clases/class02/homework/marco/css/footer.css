@@ -1,0 +1,19 @@
+footer{
+    display: flex;
+    justify-content: space-between;
+    border-style: groove;
+    margin: 1rem;
+}
+footer .footerNav{
+    display: flex;
+    justify-content: space-between;
+}
+footer .footerNav p a{
+    margin-inline: 0.5rem;
+    padding-inline: 1.5rem;
+}
+
+footer .footerNav .element{
+    border-left: 0.1px groove;
+    border-color: black;
+}

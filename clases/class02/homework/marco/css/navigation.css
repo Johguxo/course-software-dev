@@ -1,0 +1,9 @@
+body .content .navigation{
+    border-style: red 2px   groove;
+}
+
+.navigation ul li{
+    list-style: none;
+    position: relative;
+}
+
