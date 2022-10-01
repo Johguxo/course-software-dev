@@ -35,3 +35,4 @@ for ( let i = 0 ; i < list.length ; i++ ) {
   list_2.push(result)
 }
 console.log(list_2)
+
